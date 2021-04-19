@@ -22,7 +22,7 @@
 #define GSM_PIN ""
 
 // Your GPRS credentials, if any
-const char apn[]  = "h2g2";     //SET TO YOUR APN
+const char apn[]  = "hologram";     //SET TO YOUR APN
 const char gprsUser[] = "";
 const char gprsPass[] = "";
 
